@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-<img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-working-on-data-analysis-5405129-4525621.png" width="320px">
+<img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="320px">
 
 <p align="left" style="line-height: 2;">
 🔭 Ingénieur des données et Designer UI/UX<br>👯 Ouverte pour collaborer sur divers projets<br>🤝 A la recherche des stages en entreprise<br>🌱 Facilité d'adaptation aux différents milieux<br>📫 Me joindre : atekiyath@gmail.com<br>⚡ Centre d'intéret : Cuisine,graphisme et les films </p>
