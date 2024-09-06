@@ -1,15 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut!+👋;+Je+suis+Tekiyath+AMOUSSA+." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Tekiyath+AMOUSSA+." />
 </h1>
 
-<h3 align="center">Ingénieur des données et Designer UI/UX.</h3>
+<h3 align="center">Artificial Intelligence and Data Engineer| Designer UI/UX.</h3>
 
 
 # 💫 About Me:
 <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="320px">
 
 <p align="left" style="line-height: 2;">
-🔭 Ingénieur des données et Designer UI/UX<br>👯 Ouverte pour collaborer sur divers projets<br>🤝 A la recherche des stages en entreprise<br>🌱 Facilité d'adaptation aux différents milieux<br>📫 Me joindre : atekiyath@gmail.com<br>⚡ Centre d'intéret : Veille technologique,graphisme et le développement mobile </p>
+🔭 Artificial Intelligence and Data Engineer| Designer UI/UX<br>👯 Open to collaborate on various projects<br>🤝 Looking for internships in companies<br>🌱 Ease of adaptation to different environments<br>📫 Contact me: atekiyath@gmail.com<br>⚡ Center of interest: Technological monitoring, graphics and Artificial Intelligence </p>
 </p>
 
 
