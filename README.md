@@ -29,6 +29,9 @@
    <a href="https://pinterest.com/Tèkiyath Amoussa/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
   </a>
+    <a href="https://x.com/TekyAms">
+    <img <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+  </a>
   </div>
 
 # 💻 Tech Stack:
